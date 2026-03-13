@@ -14,10 +14,10 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/pict.JPG">
+<img class="cover" src="src/pict.jpeg">
 <div class="songInfo">
-<div>Pink + White</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Frank Ocean</div>
+<div>Thinking Out Loud</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Cover by Martin</div>
 
 <div class="player">
 <div class="topRow">
@@ -45,19 +45,19 @@ html:`
 <div style="position:absolute;top:5px;width:100%;overflow:hidden;">
 <div class="filmTrack">
 
-<img src="src/1.PNG" class="filmPic">
-<img src="src/2.PNG" class="filmPic">
-<img src="src/3.PNG" class="filmPic">
-<img src="src/4.PNG" class="filmPic">
-<img src="src/5.PNG" class="filmPic">
-<img src="src/6.PNG" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/2.jpg" class="filmPic">
+<img src="src/3.jpg" class="filmPic">
+<img src="src/4.jpg" class="filmPic">
+<img src="src/5.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
-<img src="src/1.PNG" class="filmPic">
-<img src="src/2.PNG" class="filmPic">
-<img src="src/3.PNG" class="filmPic">
-<img src="src/4.PNG" class="filmPic">
-<img src="src/5.PNG" class="filmPic">
-<img src="src/6.PNG" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/2.jpg" class="filmPic">
+<img src="src/3.jpg" class="filmPic">
+<img src="src/4.jpg" class="filmPic">
+<img src="src/5.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -107,17 +107,24 @@ html:`
 
 <div class="letterContent">
 
-<span class="signal">TRANSMISSION START</span><br><br>
+<span class="signal">TRANSMISSION START</span><br>
 
-Happy Mensiversary, Sayang. 
+My dearest Mirrae,
 
-Feels amazing how you’ve become part of my daily rhythm. Telling you about my day feels automatic now. Sending you random thoughts. Updating you about the smallest things. It’s like my life naturally makes space for you without me even trying. And honestly, I really like that.
+I was thinking about you again and again, and somehow the first thing that came to my mind was how grateful I am that I get to know you the way I do now. Out of all the random ways two lives can cross, somehow I ended up meeting you. And the more I think about it, the more it feels like something I should be thankful for every single day.
 
-Being your partner has also made me more aware of myself. I’ve learned how to communicate better. How to be more patient. How to say what I feel instead of expecting you to guess. I don’t think we talk enough about that part, how relationships can actually help you grow instead of shrink.
+Getting to know you has been one of the calmest and most meaningful things in my life lately. You understand me in ways that not many people do, semestaku. Sometimes I don’t even need to explain too much, and you already get what I mean. Kadang aku cuma cerita sedikit, tapi kamu langsung nangkep maksudnya. And that kind of understanding is rare. It makes me feel like I’m not alone in the way I think or feel.
 
-And maybe that’s what I’m most thankful for. With you, I don’t feel smaller. I don’t feel like I have to tone myself down. I feel supported, understood, and sometimes even challenged in a good way.
+There’s something about you that makes everything feel easier. Selama satu bulan ke belakang, talking to you doesn’t feel like a task, ntik. It feels like somewhere I can rest, I can be honest, I can be quiet, I can be a little chaotic, and you still stay. 
 
-So this mensiversary, I’m not just celebrating “us” as a couple. I’m celebrating the version of me that exists because we met. And I hope you feel the same, that being with me adds something good to your life too. Let’s keep building something healthy, something calm, something that lasts.
+The more time I spend with you, the more I notice how much you care about people around you. Those small things say a lot about who you are, and every time I notice them I feel lucky that I get to see that side of you. Mirrae, I’m genuinely grateful that you came into my life. Bersyukur banget bisa kenal kamu, bisa ngobrol sama kamu, bisa pelan-pelan ngerti cara kamu berpikir dan cara kamu melihat dunia. Not everyone gets the chance to meet someone who understands them this naturally, and I don’t take that for granted.
+
+Sometimes I look at you and think about how strange and beautiful it is that someone like you exists in my life now. In a world where people often feel distant from each other, having you feels like finding a place where things finally make sense. So if there’s one thing I want you to know, I’m really thankful for you, Mirrae. Knowing you has been one of the best things that happened to me.
+
+And if life keeps giving me the chance, I hope I get to keep knowing you longer, understanding you deeper, and standing beside you through whatever comes next.
+
+I love you, Mirrae Lune.
+- Marvin Edwards.
 
 <span class="signal">END SIGNAL</span>
 
